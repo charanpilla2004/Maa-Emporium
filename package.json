@@ -22,6 +22,8 @@
     "scripts": {
         "build": "webpack",
         "test": "node tests"
+        "start": "react-scripts start",
+        "build": "react-scripts build"
     },
     "files": [
         "index.js",
@@ -32,11 +34,7 @@
         "dist/long.js.map",
         "index.d.ts"
     ],
-    "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      ...
-    },
+    
 
     "types": "index.d.ts"
 }

@@ -21,7 +21,7 @@
     "license": "Apache-2.0",
     "scripts": {
         "build": "webpack",
-        "test": "node tests"
+        "test": "node tests",
         "start": "react-scripts start",
         "build": "react-scripts build"
     },

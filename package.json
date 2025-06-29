@@ -32,5 +32,11 @@
         "dist/long.js.map",
         "index.d.ts"
     ],
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      ...
+    },
+
     "types": "index.d.ts"
 }
